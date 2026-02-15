@@ -6,28 +6,14 @@
 <!-- ================= INTRO ================= -->
 <div align="center">
 
-# 👋 Hola, soy Nicolás Campos
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🇨🇱 Chile
 
 [![Email](https://img.shields.io/badge/Email-ncamposmaldonado%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ncamposmaldonado@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nyowynn.github.io-blue?style=flat-square&logo=vercel)](https://nyowynn.github.io/portafolio/)
 [![GitHub followers](https://img.shields.io/github/followers/nyowynn?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/nyowynn)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nyowynn&style=flat-square&color=0891b2)
 
 </div>
-
----
-
-# 🧠 Sobre mí
-
-🎓 Analista Programador — Santo Tomás  
-🚀 Full Stack enfocado en soluciones reales  
-🤖 Desarrollo asistido con IA / Agents / Prompt Engineering  
-☁ Experiencia con Cloud y despliegues reales  
-🎮 Gamer + cultura anime (sí, eso también vive acá)
-
----
 
 # 💻 Tech Stack
 
