@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=220&section=header&text=Nicolas%20Campos%20|%20WynnDev&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=WynnDev&section=header&reversal=false&fontAlign=50&textBg=false&descAlign=54"/>
 </div>
 
 <!-- ================= INTRO ================= -->
