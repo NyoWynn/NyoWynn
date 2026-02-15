@@ -88,11 +88,12 @@
 
 ---
 
+<!-- GitHub Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyowynn/nyowynn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyowynn/nyowynn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nyowynn/nyowynn/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyoWynn/NyoWynn/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyoWynn/NyoWynn/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NyoWynn/NyoWynn/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
@@ -103,11 +104,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nyowynn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NyoWynn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyowynn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyoWynn&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyowynn&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NyoWynn&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
