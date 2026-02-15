@@ -29,18 +29,6 @@
 ### ☁ DevOps / Cloud / Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,azure,linux" />
 
----
-
-# 🤖 AI / Advanced Stack
-
-✔ Prompt Engineering  
-✔ AI Assisted Development  
-✔ OCR + Vision APIs  
-✔ Automation Bots  
-✔ API Integrations  
-
----
-
 # 🚀 Proyectos Destacados
 
 <div align="center">
