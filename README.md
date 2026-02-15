@@ -1,5 +1,5 @@
 <!-- HEADER / HERO -->
-<h1 align="center">Hi 👋, I'm Nicolas Campos</h1>
+<h1 align="center">Hi 👋, I'm WynnDev</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Software Engineering Student</h3>
 
 <p align="center">
@@ -15,14 +15,7 @@
 
 ---
 
-## 🧠 About Me
 
-- 🎓 Analista Programador — Santo Tomás  
-- 🛠 Full Stack Developer  
-- 🤖 Interesado en IA aplicada al desarrollo  
-- 🧩 Me gusta construir proyectos reales que resuelvan problemas  
-
----
 
 ## ⚡ Tech Stack
 
