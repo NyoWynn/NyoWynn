@@ -43,43 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎌 AnimeFinder
-Modern anime discovery platform with smart search and recommendations.
-
-- JS / HTML / CSS  
-- Jikan API  
-- Bilingual support  
-
----
-
-### 🧮 Calcula Ya
-Online calculator suite (IMC, currencies, loans, % and more).
-
-- JavaScript  
-- Web Tools  
-- Netlify  
-
----
-
-### 🏢 Sistema de Asistencia
-Enterprise attendance system with QR + Email notifications.
-
-- ASP.NET Core 8  
-- Entity Framework  
-- SQL Server  
-
----
-
-### 🦷 Sistema Dental
-Desktop Java app for lab equipment tracking.
-
-- Java Swing  
-- Desktop Management System  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -104,10 +67,6 @@ Desktop Java app for lab equipment tracking.
 
 ---
 
-## 🧩 Fun Fact
 
-I love mixing development + AI + automation + real-world problem solving 🚀
-
----
 
 ⭐ If you like my work, consider giving a star to my repositories!
