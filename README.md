@@ -6,7 +6,8 @@
 <!-- ================= INTRO ================= -->
 <div align="center">
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🇨🇱 Chile
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | <img src="https://flagcdn.com/w40/cl.png" width="28" style="vertical-align: text-bottom;"/>
+
 
 [![Email](https://img.shields.io/badge/Email-ncamposmaldonado%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ncamposmaldonado@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nyowynn.github.io-blue?style=flat-square&logo=vercel)](https://nyowynn.github.io/portafolio/)
