@@ -15,8 +15,10 @@
 
 </div>
 
-# 💻 Tech Stack
 
+<div align="center">
+
+  # 💻 Tech Stack
 ### ⚡ Lenguajes & Frameworks
 <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nestjs,nodejs,java,python,dotnet" />
 
@@ -28,62 +30,42 @@
 
 ### ☁ DevOps / Cloud / Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,azure,linux" />
+</div>
 
 # 🚀 Proyectos Destacados
 
+
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-<a href="https://nyowynn.github.io/portafolio/">
-<img src="https://via.placeholder.com/250x140/0f172a/ffffff?text=Portfolio" width="250"/><br/>
-<b>🌐 Portfolio Profesional</b>
-</a>
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://via.placeholder.com/250x140/111827/ffffff?text=Sistema+Asistencia" width="250"/><br/>
-<b>🏢 Sistema Asistencia Empresarial</b>
-</a>
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://via.placeholder.com/250x140/1f2937/ffffff?text=Mishka+OCR" width="250"/><br/>
-<b>📅 Mishka — OCR Calendario Académico</b>
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<a href="#">
-<img src="https://via.placeholder.com/250x140/020617/ffffff?text=KIWIFRAME" width="250"/><br/>
-<b>🎌 KIWIFRAME — Anime Search AI</b>
-</a>
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://via.placeholder.com/250x140/0f172a/ffffff?text=HandanOps" width="250"/><br/>
-<b>🧠 HandanOps — Ticket AI Classification</b>
-</a>
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://via.placeholder.com/250x140/111827/ffffff?text=IoT+Projects" width="250"/><br/>
-<b>🌱 IoT Smart Projects</b>
-</a>
-</td>
-
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NyoWynn/document-processing-platform">
+          <img src="https://nyowynn.github.io/portafolio/files/document-processing.png" width="360" alt="Document Processing Platform" />
+          <br/><b>📄 Document Processing Platform</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://animefind.xyz/">
+          <img src="https://nyowynn.github.io/portafolio/files/animefind.png" width="360" alt="AnimeFind" />
+          <br/><b>🎌 AnimeFind — Anime Discovery Platform</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NyoWynn/WDex-AI">
+          <img src="https://nyowynn.github.io/portafolio/files/WDex.png" width="360" alt="WDex AI" />
+          <br/><b>📊 WDex AI</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NyoWynn/Sistema-de-Asistencia-Empresarial">
+          <img src="https://nyowynn.github.io/portafolio/files/proyectoasistencia.png" width="360" alt="Sistema Asistencia Empresarial" />
+          <br/><b>🏢 Sistema Asistencia Empresarial</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -104,9 +86,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NyoWynn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyoWynn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyoWynn&theme=tokyo-night&hide_border=true"/>
 
@@ -114,19 +94,36 @@
 
 ---
 
-# 🌐 Contacto
 
-📧 ncamposmaldonado@gmail.com  
-🌍 Portfolio → https://nyowynn.github.io/portafolio/  
 
----
 
-# 🤝 Abierto a
 
-✨ Práctica profesional  
-✨ Colaboraciones  
-✨ Proyectos IA / Full Stack  
-✨ Oportunidades remotas  
+<h2>🌐 Contacto</h2>
+
+<div align="center">
+  <a href="mailto:ncamposmaldonado@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="52" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nicolascamposmaldonado/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="52" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nyowynn.github.io/portafolio/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" width="52" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/wynn.js/" target="_blank">
+    <img src="https://img.icons8.com/color/96/instagram-new--v1.png" width="52" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <span title="Discord: nyowynn">
+    <img src="https://img.icons8.com/color/96/discord-logo.png" width="52" alt="Discord"/>
+  </span>
+</div>
+
+
+
 
 ---
 
